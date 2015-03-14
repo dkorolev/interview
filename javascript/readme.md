@@ -11,7 +11,7 @@ Stage 5
 Done!
 ```
 
-1. Without running the code, could you answer does it do it?
+1. Without running the code, could you answer what does it do it?
 1. What would you suggest changing in the code?
 
 All the best!
